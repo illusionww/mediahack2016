@@ -26,3 +26,7 @@
     stroke: #CC0000;
     stroke-width: 1px;
 }
+
+figcaption {
+    font-size: 90%;
+}
